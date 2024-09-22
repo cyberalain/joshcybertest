@@ -10,8 +10,8 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 ## 🚨 Security Operation and Incident Response Projects
 
-- **[Creation of a Mini SOC and Honeynet](https://github.com/___________/soc-and-honeynet)**
-- **[Threat Hunting Detection Use Cases](https://github.com/___________/threat-hunting-use-cases)**
+- **[Creation of a Mini SOC and Honeynet](https://github.com/joshcybertest/soc-and-honeynet)**
+- **[Threat Hunting Detection Use Cases](https://github.com/joshcybertest/threat-hunting-use-cases)**
 
 <hr/>
 
