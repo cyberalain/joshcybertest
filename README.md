@@ -1,14 +1,15 @@
-<h1>Hi, I'm ________________, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional!</a></h1>
+<h1>Hi, I'm ________________, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional.</a></h1>
+Check out some of my projects!
 
 <h2>Vulnerability Management Projects</h2>
 
-- <b>Vulnerability Management Program Implementation</b>
-- <b>Programmatic Vulnerability Remediations</b>
+- **[Vulnerability Management Program Implementation](https://github.com/___________/vulnerability-management-program)**
+- **[Programmatic Vulnerability Remediations](https://github.com/___________/programmatic-vulnerability-remediations)**
 
-<h2>Security Operations Projects</h2>
+## Security Operations Projects
 
-- <b>Creation of a Mini-SOC and Honeynet</b>
-- <b>Threat Hunting Detection Use Cases</b>
+- **[Creation of a Mini-SOC and Honeynet](https://github.com/___________/soc-and-honeynet)**
+- **[Threat Hunting Detection Use Cases](https://github.com/___________/threat-hunting-use-cases)**
 
 <h2> 🤳 Connect with me:</h2>
 
